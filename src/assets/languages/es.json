@@ -1,0 +1,29 @@
+{
+	"close": "Cerrar",
+	"title": {
+		"hello": "Hola, soy",
+		"webdeveloper": "Desarrolladora web front-end"
+	},
+	"about": {
+		"title": "Sobre mí",
+		"description": "Desarrolladora web <span>front-end</span> en formación, con experiencia en proyectos reales durante prácticas. Manejo HTML, JavaScript, SCSS, Bootstrap y Laravel, entre otras tecnologías. Mi formación en <span>Economía y Turismo</span> me ha aportado una visión estratégica y habilidades digitales. Soy curiosa, responsable y con muchas ganas de seguir aprendiendo."
+	},
+	"settings": {
+		"darkmode": "Modo oscuro",
+		"lightmode": "Modo claro",
+		"english": "Inglés",
+		"spanish": "Español"
+	},
+	"social": {
+		"title": "Redes sociales"
+	},
+	"skills": {
+		"title": "Habilidades"
+	},
+	"projects": {
+		"title": "Proyectos",
+		"more": "Ver más",
+		"code": "Código",
+		"live": "Página"
+	}
+}

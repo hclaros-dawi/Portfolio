@@ -1,0 +1,33 @@
+{
+	"close": "Close",
+	"title": {
+		"hello": "Hello, i am",
+		"webdeveloper": "Front-end web developer"
+	},
+	"about": {
+		"title": "About me",
+		"description": "<span>Front-end</span> web developer in training, with experience in real-world projects during internships. I work with HTML, JavaScript, SCSS, Bootstrap, and Laravel, among other technologies. My background in <span>Economics and Tourism</span> has given me a strategic mindset and strong digital skills. I am curious, responsible, and eager to keep learning."
+	},
+	"settings": {
+		"darkmode": "Dark mode",
+		"lightmode": "Light mode",
+		"english": "English",
+		"spanish": "Spanish",
+		"sound": "Sound",
+		"mute": "Mute",
+		"theme": "Change theme",
+		"code": "View code"
+	},
+	"social": {
+		"title": "Social networks"
+	},
+	"skills": {
+		"title": "Skills"
+	},
+	"projects": {
+		"title": "Projects",
+		"more": "View more",
+		"code": "Code",
+		"live": "Live"
+	}
+}

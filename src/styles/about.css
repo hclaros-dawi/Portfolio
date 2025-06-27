@@ -1,0 +1,40 @@
+.about {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.about h2 {
+	margin-bottom: 10px;
+}
+
+.about p {
+	font-weight: 400;
+	line-height: 140%;
+	text-wrap: pretty;
+	margin: 0;
+	color: var(--dark-text-color);
+}
+
+.about p span {
+	color: black;
+	text-decoration: underline var(--primary-color) 2px;
+}
+
+.darkmode .about p {
+	font-weight: 300;
+	color: rgb(255 255 255 / 80%);
+}
+
+.darkmode .about p span {
+	color: white;
+}
+
+@media (570px <= width) {
+	.about h2,
+	.about p {
+		max-width: 40rem;
+		margin-inline: auto;
+		width: 100%;
+	}
+}
